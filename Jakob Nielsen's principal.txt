@@ -1,0 +1,12 @@
+Jakob Nielsen's 10 principal of UX processing 
+
+1. Consistency and standards
+2. Recognise rather than recall
+3. User control and freedom
+4. Visibility of system status
+5. Help user recognise, diagnose and recover from errors
+6. Aesthetic design
+7. Flexibility and efficiency of use
+8. Match between system and real world
+9. Error prevention 
+10. Help and documentation
