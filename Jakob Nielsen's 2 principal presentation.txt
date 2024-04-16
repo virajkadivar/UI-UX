@@ -1,0 +1,23 @@
+"Aesthetic and Minimalist Design"
+UI ની content અને designને આવશ્યક બાબતો પર કેન્દ્રિત રાખો.
+Don't let unnecessary elements
+Distract users from the information they really need.
+Users cannot find or discover the necessary elements
+Content and features પ્રાથમિકતા
+યાદગાર અનુભવ
+
+ex. few info in each menu
+
+
+"Help and Documentation"
+To help users understand how to complete their tasks.
+ધ્યાન રાખો કે Help Documentation નો option શોધવા માટે સરળ છે .
+જ્યારે પણ શક્ય હોય, ત્યારે userને તેની જરૂર હોય તે જ સમયે Help and Documentation રજૂ કરો.
+Help is provided before the user face a problem, in order to prevent issues.
+2 types of interface help
+Proactive Help   =	useને ઇન્ટરફેસથી પરિચિત કરવાનો
+Reactive Help    =   aims to answer questions and troubleshoot problems
+
+ex. help tab
+
+
